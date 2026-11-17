@@ -29,3 +29,4 @@ services:
         value: INFO
       - key: IGNIS_DENSE
         value: "off"
+
